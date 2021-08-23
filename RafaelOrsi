@@ -1,0 +1,97 @@
+<! DOCTYPE html>
+<html lang = "pt-BR">
+  <head>
+    <meta charset = "UTF-8" />
+    <meta http-equiv = "X-UA-Compatible" content = "IE = edge" />
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0" />
+    <title> Rafael Nobre Orsi | Controle de versão com Git / GitHub </title>
+    <link rel = "preconnect" href = "https://fonts.googleapis.com" />
+    <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin />
+    <link
+      href = "https://fonts.googleapis.com/css2?family=Bellefair&family=Exo:wght@500&display=swap"
+      rel = "folha de estilo"
+    />
+    <link
+      rel = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Flike&psig=AOvVaw2jH9kVI55vW1c3i0qqKxIV&ust=1629479071738000&source=images&ABq=vfeIqAtAqAtAqAtAqAq0qqKxIV&ust=1629479071738000&source=vABq=vfeQAqAtAqAtAqAqAtAqAqAqAqAqAtAqAqAqAqAq
+    />
+    <style>
+      * {
+        margem: 0;
+        preenchimento: 0;
+        dimensionamento da caixa: caixa de borda;
+        família da fonte: "Bellefair", serifa;
+cor da fonte: branco;
+      }
+      corpo {
+        altura: 100vh;
+        display: flex;
+        direção flexível: coluna;
+        justificar o conteúdo: centro;
+        alinhar-itens: centro;
+        largura mínima: 500px;
+        imagem de fundo: gradiente linear (cinza, branco, cinza);
+      }
+      a: link,
+      a: visitou,
+      a: ativo {
+        cor branca;
+	decoração de texto: nenhum;
+      }
+      a: hover {
+        decoração de texto: sublinhado;
+      }
+      #card {
+        transformar: perspectiva (300px) rotateX (3deg);
+        transição: todos os 1s facilitam a entrada;
+        sombra da caixa: 5px 15px 10px 0 cinza;
+        borda: 3px cinza sólido;
+        cor de fundo: branco;
+      }
+      #card: hover {
+        transformar: nenhum;
+        sombra da caixa: 0px 0px 0px 0 preto;
+      }
+      #card> * {
+        preenchimento: 10px;
+        largura: 600px;
+        alinhamento de texto: centro;
+	cor do texto: cinza;
+      }
+      h1 {
+        família da fonte: "Exo", sans-serif;
+      }
+      #voltar {
+        alinhamento de texto: direita;
+      }
+    </style>
+  </head>
+  <body>
+    <div id = "card">
+      	<h1>
+	Rafael Nobre Orsi
+	</h1>
+      	p
+        Matemática 
+      </p>
+      p
+      Especialização em Formação de Professores
+      	</p>
+	p
+	</p>
+      	p
+	Disciplinas: 
+      	p
+	</p>
+	p   
+	Matemática e Física
+	</p>
+      	p
+	ETEC Parque da Juventude
+	</p>
+      	p
+	<a href="https://github.com/ailton-santos"> GitHub </a>
+	</p>
+      <p id = "voltar"> <a href="index.html"> voltar </a> </p>
+    </div>
+  </body>
+</html> 
